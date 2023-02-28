@@ -42,3 +42,9 @@ Seremos capazes, ao final, de desenvovler aplicações híbridas com a mais alta
   - [Professor Isidro](https://www.youtube.com/user/fmassetto)
 
 ## Bibliografia
+
+- Código limpo
+- O programador Pragmático
+- Arquitetura limpa (após leitura do Clean Code)
+- [Learn Flutter and Dart to Build iOS and Android Apps](https://learning.oreilly.com/videos/learn-flutter-and/9781789951998/)
+- [Flutter and Dart Cookbook](https://learning.oreilly.com/library/view/flutter-and-dart/9781098119508/)
