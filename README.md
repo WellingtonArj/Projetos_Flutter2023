@@ -12,7 +12,17 @@
 
 ## Critérios de avaliação
 
+Teremos apenas uma única avaliação com questões de múltipla escolha.
+
+DATA: 30.05 em aula
+
+Não se preocupem com essa avaliação!
+
 ## Mini ementa da disciplina
+
+Nessa disciplina vamos aprender a desenvolver Apps utilizando Flutter.
+
+Seremos capazes, ao final, de desenvovler aplicações híbridas com a mais alta tecnologia atual.
 
 ## Links interessantes
 
@@ -24,9 +34,11 @@
 - [W3Schools](https://www.w3schools.com/) - Diversos cursos
 - [Dankicode](https://cursos.dankicode.com/) - Cursos pagos (completos)
 - Canais do YouTube:
+  - [Fluterando](https://www.youtube.com/@Flutterando)
+  - [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini) - Dica do Guilehrme
   - [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
   - [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
   - [Mozilla Developer](https://www.youtube.com/@MozillaDeveloper)
-  - [Professoer Isidro](https://www.youtube.com/user/fmassetto)
+  - [Professor Isidro](https://www.youtube.com/user/fmassetto)
 
 ## Bibliografia
