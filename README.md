@@ -10,6 +10,14 @@
 
 ## Ambiente de desenvolvimento
 
+A preparação do ambiente de desenvolvimento Flutter é bastante simples mas requer bastante atenção aos detalhes.
+
+Para facilitar, o professor junto com a turma criou um documento de "passo a passo" da preparação do ambiente.
+
+DISPONÍVEL [NESTE LINK](https://docs.google.com/document/d/10WdIk98K2Z-udQJgflyR8ZTnQPxdoFEH1XUIcWxuguk/edit?usp=sharing)
+
+Lembre-se de acessar o documento utilizando seu e-mail institucional.
+
 ## Critérios de avaliação
 
 Teremos apenas uma única avaliação com questões de múltipla escolha.
