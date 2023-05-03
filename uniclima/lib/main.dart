@@ -14,7 +14,7 @@ class UniClima extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: const Home(),
-      title: "UniClima",
+      title: 'UniClima',
       debugShowCheckedModeBanner: false,
       theme: lightTheme(),
       darkTheme: darkTheme(),
