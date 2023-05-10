@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 class ClimaModel {
   final double temperatura;
   final double tempMin;
