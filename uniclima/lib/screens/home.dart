@@ -16,7 +16,6 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-
   @override
   void initState() {
     super.initState();
@@ -142,7 +141,21 @@ class _HomeState extends State<Home> {
                             : climaModel != null
                                 ? ClimaWidget(climaModel: climaModel)
                                 : const Text(TextConstants.semDados),
-                      )
+                      ),
+                      Padding(
+                          padding: const EdgeInsets.all(8),
+                          child: isLoading
+                              ? Text(TextConstants.carregando,
+                                  style: Theme.of(context)
+                                      .textTheme
+                                      .headlineMedium)
+                              : IconButton(
+                                  onPressed: carregaClima,
+                                  icon: const Icon(Icons.refresh),
+                                  iconSize: 50,
+                                  color: Colors.blue,
+                                  tooltip: TextConstants.recarregar,
+                                ))
                     ],
                   ))
                 ]))));

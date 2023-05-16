@@ -6,4 +6,6 @@ class TextConstants {
   static const visibilidade = 'Visibilidade';
   static const pressaoAtm = 'Pressão';
   static const semDados = 'Sem dados para exibir';
+  static const carregando = 'Carregando...';
+  static const recarregar = 'Recarregar';
 }
