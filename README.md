@@ -1,11 +1,5 @@
 # Desenvolvimento de App Móveis Híbridos
 
-**Turma**: 30 (terça noite)
-
-**Professor:** Thiago G. Traue (thiago.traue@uni9.pro.br)
-
-[CLASSROOM DA DISCIPLINA](https://classroom.google.com/c/NTkzODc0NzYyMzcz?cjc=7ohzomp)
-
 ***
 
 ## Ambiente de desenvolvimento
